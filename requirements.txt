@@ -1,0 +1,14 @@
+torch
+torchvision
+pillow
+requests
+opencv-python
+mediapipe
+openai
+langchain
+streamlit
+whisper
+pyttsx3
+python-dotenv
+rllib
+unittest
